@@ -34,7 +34,7 @@ To gain insights from the text, the notebook includes:
 - Bar charts showing emotion distribution
 - Histograms highlighting word/token frequencies
 
-## 📁 Deliverables
+## 📁 Content
 
 - ✅ Preprocessed dataset (tokenized, cleaned, and embedded)
 - ✅ Feature extraction using BERT
